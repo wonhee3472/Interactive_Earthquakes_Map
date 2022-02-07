@@ -1,3 +1,5 @@
+# Ignoring files
+.DS_Store
 config.js
 
 # Byte-compiled / optimized / DLL files
