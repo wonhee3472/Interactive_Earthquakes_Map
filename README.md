@@ -4,7 +4,7 @@
 The purpose of this project is `to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days`.
 
 ## Tasks
-To complete this project, `use a URL for GeoJSON earthquake data from the USGS website` and `retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days`. Then `add the data to a map`.
+To complete this project, `I used a URL for GeoJSON earthquake data from the USGS website` and `retrieved geographical coordinates and the magnitudes of earthquakes for the last seven days`. Then `I added the data to a map`.
 
 ## Approach
 I'll be using the JavaScript and D3.js library to retrieve the coordinates and magnitudes of earthquakes from the GeoJSON data.
