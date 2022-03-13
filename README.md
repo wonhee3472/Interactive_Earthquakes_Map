@@ -1,11 +1,5 @@
-# Mapping_Earthquakes
+# Creating Interactive Earthquakes Map
 
-## Purpose
-The purpose of this project is `to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days`.
+## Project Overview
+The objective of this project is to gather earthquake GeoJSON data from the USGS API, create and explore interactive maps of earthquakes around the world. The earthquake data is represented on the maps in relation to the tectonic plates’ location on the earth, and according to each event's magnitude.
 
-## Tasks
-To complete this project, `I used a URL for GeoJSON earthquake data from the USGS website` and `retrieved geographical coordinates and the magnitudes of earthquakes for the last seven days`. Then `I added the data to a map`.
-
-## Approach
-I'll be using the JavaScript and D3.js library to retrieve the coordinates and magnitudes of earthquakes from the GeoJSON data.
-Also, I'll use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
